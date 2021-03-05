@@ -8,4 +8,7 @@
 
 Restante está em desenvolvmento, porém a alteração de senha ou recuperar a senha será feita de forma parecida com o início do cadstro. 
 
+Download do PHPMailer:
+https://www.homehost.com.br/blog/wp-content/uploads/2016/06/PHPMailer-master.zip
+
 Qualquer informação ou ajuda pode entrar em contato rodrigo.vds96@gmail.com
