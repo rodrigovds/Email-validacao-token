@@ -13,6 +13,8 @@ https://www.homehost.com.br/blog/wp-content/uploads/2016/06/PHPMailer-master.zip
 
 Nos arquivos disponibilizados já consta as chamadas para o PHPMAILER, nele precisará cadastrar o e-mail e senha, e configurar o email de envio. 
 
+08-03-2021: Atualização: Inserido codigo para login, consulta o email e senha - caso estar cadastrado, abre uma sessão e direciona para página do sistema, insere as informações para o usuário cadastrado. 
+
 Tem um tutorial no site HomeHost:
 
 https://www.homehost.com.br/blog/tutoriais/php/enviar-email-php-com-phpmailer-smtp/#:~:text=php%22%3B%20%2F%2F%20Inicia%20a%20classe,%2D%3ESMTPAuth%20%3D%20true%3B%20%2F%2F
